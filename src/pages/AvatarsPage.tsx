@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Filter, Sparkles, Plus, Play, Heart } from 'lucide-react';
+import { Search, Filter, Sparkles, Plus, Play } from 'lucide-react';
 
 const avatars = [
   { id: 1, name: 'Alex Professional', category: 'Business', style: 'from-purple-400 to-pink-400', gender: 'Male', languages: 12 },

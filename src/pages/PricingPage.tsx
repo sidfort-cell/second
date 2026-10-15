@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import Pricing from '../components/Pricing';
-import { Check, ArrowRight, Star } from 'lucide-react';
+import { ArrowRight, Star } from 'lucide-react';
 
 const testimonials = [
   { name: 'Sarah K.', role: 'Content Creator', text: 'VisionAI cut my video production time by 90%. I can now create a week of content in an hour.', rating: 5 },

@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
   Play, Pause, Download, Share2, Wand2, Type, 
-  Image, Mic, Settings, Clock, Layers, Sparkles,
-  ChevronRight, Volume2, Maximize2, SkipBack, SkipForward
+  Image, Mic, Layers, Sparkles,
+  Volume2, Maximize2, SkipBack, SkipForward
 } from 'lucide-react';
 
 const avatarOptions = [

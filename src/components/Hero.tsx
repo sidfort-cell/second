@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Play, Sparkles, Zap, Video, ArrowRight } from 'lucide-react';
+import { Play, Sparkles, Zap, ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Hero() {

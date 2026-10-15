@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Play, Download, Heart, Clock, Tag } from 'lucide-react';
+import { Search, Play, Clock, Tag } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const templates = [

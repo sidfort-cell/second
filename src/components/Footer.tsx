@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Sparkles, Twitter, Github, Linkedin, Youtube, Mail } from 'lucide-react';
+import { Sparkles, Twitter, Github, Linkedin, Youtube } from 'lucide-react';
 
 export default function Footer() {
   return (
